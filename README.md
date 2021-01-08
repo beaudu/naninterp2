@@ -34,4 +34,4 @@ This a comparison of computation times of interpolation for a 1000x1000 grid wit
 **François Beauducel**, [IPGP](www.ipgp.fr), [beaudu](https://github.com/beaudu), beauducel@ipgp.fr
 
 ## Documentation
-Type `doc naninterp2` for help and syntax.
+Type `doc naninterp2` for help and syntax. See also [![View NANINTERP2: 2-D optimized linear interpolation on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://fr.mathworks.com/matlabcentral/fileexchange/56948-naninterp2-2-d-optimized-linear-interpolation) users community comments.
